@@ -3,7 +3,6 @@ package java101;
 import java.util.Scanner;
 
 public class Exercise {
-	public class Odev28MukemmelSayi {
 		public static void main(String[] args) {
 			Scanner input = new Scanner(System.in);
 			int sayi, toplam = 0;
